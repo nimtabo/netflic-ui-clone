@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nimtabo/netflic-ui-clone/static/css/main.e0fad6f1.chunk.css",
-    "main.js": "/nimtabo/netflic-ui-clone/static/js/main.d615e7fe.chunk.js",
-    "main.js.map": "/nimtabo/netflic-ui-clone/static/js/main.d615e7fe.chunk.js.map",
+    "main.js": "/nimtabo/netflic-ui-clone/static/js/main.89d6c5e3.chunk.js",
+    "main.js.map": "/nimtabo/netflic-ui-clone/static/js/main.89d6c5e3.chunk.js.map",
     "runtime-main.js": "/nimtabo/netflic-ui-clone/static/js/runtime-main.1a2f3af2.js",
     "runtime-main.js.map": "/nimtabo/netflic-ui-clone/static/js/runtime-main.1a2f3af2.js.map",
     "static/js/2.10ffae79.chunk.js": "/nimtabo/netflic-ui-clone/static/js/2.10ffae79.chunk.js",
     "static/js/2.10ffae79.chunk.js.map": "/nimtabo/netflic-ui-clone/static/js/2.10ffae79.chunk.js.map",
     "index.html": "/nimtabo/netflic-ui-clone/index.html",
-    "precache-manifest.ec21fc304a768c60a3f22c967597a9a0.js": "/nimtabo/netflic-ui-clone/precache-manifest.ec21fc304a768c60a3f22c967597a9a0.js",
+    "precache-manifest.c9563d5be70a97ed1ae91b87b05b9c8d.js": "/nimtabo/netflic-ui-clone/precache-manifest.c9563d5be70a97ed1ae91b87b05b9c8d.js",
     "service-worker.js": "/nimtabo/netflic-ui-clone/service-worker.js",
     "static/css/main.e0fad6f1.chunk.css.map": "/nimtabo/netflic-ui-clone/static/css/main.e0fad6f1.chunk.css.map",
     "static/js/2.10ffae79.chunk.js.LICENSE.txt": "/nimtabo/netflic-ui-clone/static/js/2.10ffae79.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1a2f3af2.js",
     "static/js/2.10ffae79.chunk.js",
     "static/css/main.e0fad6f1.chunk.css",
-    "static/js/main.d615e7fe.chunk.js"
+    "static/js/main.89d6c5e3.chunk.js"
   ]
 }

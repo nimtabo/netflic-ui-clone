@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "429943dc8561017ef3618f62d5a57fc1",
+    "revision": "ef4d4072250774c848be52ee217f749d",
     "url": "/nimtabo/netflic-ui-clone/index.html"
   },
   {
-    "revision": "a6d1321a2943f4357bbd",
+    "revision": "f0e0f0731efd0a5e945e",
     "url": "/nimtabo/netflic-ui-clone/static/css/main.e0fad6f1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nimtabo/netflic-ui-clone/static/js/2.10ffae79.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6d1321a2943f4357bbd",
-    "url": "/nimtabo/netflic-ui-clone/static/js/main.d615e7fe.chunk.js"
+    "revision": "f0e0f0731efd0a5e945e",
+    "url": "/nimtabo/netflic-ui-clone/static/js/main.89d6c5e3.chunk.js"
   },
   {
     "revision": "0a67ffa8a8bc1e65412b",

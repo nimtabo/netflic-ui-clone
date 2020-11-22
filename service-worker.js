@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nimtabo/netflic-ui-clone/precache-manifest.ec21fc304a768c60a3f22c967597a9a0.js"
+  "/nimtabo/netflic-ui-clone/precache-manifest.c9563d5be70a97ed1ae91b87b05b9c8d.js"
 );
 
 self.addEventListener('message', (event) => {
