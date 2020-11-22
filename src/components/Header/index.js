@@ -1,15 +1,17 @@
-import React from 'react';
-import './styles.css';
+import React from "react";
+import "./styles.css";
+import logo from "../../imgs/Netflix_logo.png";
+import profile from "../../imgs/profile.svg";
 
-export default ({black})=>{
-    return(
-        <header className={black ?"black" : ''}>
-            <div className="header--logo">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Netflix.png"/>
-            </div>
-            <div className="header--user">
-                <img src="https://pbs.twimg.com/profile_images/1240119990411550720/hBEe3tdn_400x400.png"/>
-            </div>
-        </header>
-    )
-}
+export default ({ black }) => {
+  return (
+    <header className={black ? "black" : ""}>
+      <div className="header--logo">
+        <img src={logo} alt="logo" />
+      </div>
+      <div className="header--user">
+        <img src={profile} alt="profile" />
+      </div>
+    </header>
+  );
+};
